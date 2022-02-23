@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration to the world, of my travel and journey out of Ægypt into Canaan through the vvilderness, &amp; through the Red-Sea, from under Pharaoh, and now hath a sure habitation in the Lord, where rest and peace is known; by one who dwelleth in the light which hath led him out of darkness, from Satans power to the power of God, who in the power liveth, and by it is preserved, glory be to the Lord Omnipotent.</title>
+            <author>Greene, Thomas, 1634?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42003</idno>
+            <idno type="STC">Wing G1840</idno>
+            <idno type="STC">ESTC R203773</idno>
+            <idno type="EEBO-CITATION">99825285</idno>
+            <idno type="PROQUEST">99825285</idno>
+            <idno type="VID">29663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29663)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1778:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration to the world, of my travel and journey out of Ægypt into Canaan through the vvilderness, &amp; through the Red-Sea, from under Pharaoh, and now hath a sure habitation in the Lord, where rest and peace is known; by one who dwelleth in the light which hath led him out of darkness, from Satans power to the power of God, who in the power liveth, and by it is preserved, glory be to the Lord Omnipotent.</title>
+                  <author>Greene, Thomas, 1634?-1699.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Green.</note>
+                  <note>reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Biography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29663:1" rendition="simple:additions"/>
+            <p>A DECLARATION TO THE WORLD Of my TRAVEL and JOURNEY out of AEGYPT INTO CANAAN</p>
+            <l>Through the Wilderneſs, &amp; through</l>
+            <l>the Red-Sea, from under <hi>Pharoah,</hi> and now hath</l>
+            <l>a ſure habitation in the Lord, where reſt</l>
+            <l>and peace is known; by one who dwel<g ref="char:EOLhyphen"/>leth</l>
+            <l>in the light which hath led him</l>
+            <l>out of darkneſs, from Satans po<g ref="char:EOLhyphen"/>wer</l>
+            <l>to the Power of God, who in</l>
+            <l>the Power liveth, and by it is</l>
+            <l>preſerved, Glory be to the</l>
+            <l>Lord Omnipotent.</l>
+            <p>LONDON, Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29663:2"/>
+            <pb n="1" facs="tcp:29663:2" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> DECLARATION <hi>TO THE</hi> WORLD <hi>Of my travel and my journey out of</hi> AEgypt <hi>into</hi> Canaan, &amp;c.</head>
+            <p>COme all to the light which is Gods witneſſe in you all, which reproveth for ſin in ſecret, which light leadeth to the Father of Lights; this I de<g ref="char:EOLhyphen"/>clare from my youth, which light condemneth for unrighteouſneſſe, which I have known ever ſince I was ſeven or eight years of age, when I yeelded my mem<g ref="char:EOLhyphen"/>bers ſervants to unrighteouſneſſe, when I had committed any evil either in word or action, the witneſſe of God in my Conſcience followed me and condemned me for it, and brought a fear and a dread upon me, that I was in more fear then I was of receiving correction from my pa<g ref="char:EOLhyphen"/>rents; yet I knew not what it was that troubled me, and many times the Seed of God in my cryed for deliverance, and a ſecret deſire I had as for the Lord, that I might come to the knowledge of him, but where to find him I knew not, then I was directed to hear Sermons and to read the Scriptures, yea and I did ſo, and was very di<g ref="char:EOLhyphen"/>ligent in hearing; yet there was ſome thing in me which could not be ſatisfied with hearing nor reading, for my
+<pb n="4" facs="tcp:29663:3" rendition="simple:additions"/>
+life was not changed, then I ſaw my ſelf in the ſtate of condemnation for diſobedience, and ſo in a troubled ſtate I was; then the Teachers bid me believe in Chriſt, and apply the promiſes, and obſerve duties; then I deſired to know Chriſt that I might believe in him; then they ſaid, <hi>I muſt believe in that Chriſt that died at Jeruſalem, that he died for my ſins,</hi> yea, and I did believe in that Chriſt that died at Jeraſalem, but that he had taken away my ſins I could not believe, becauſe I lived in that which he condemned me for, yet I knew not who he was, though he told me all that ever I did; then they bid me <hi>apply the promiſes,</hi> and ſo I did, but I was condemned for it, for even in Scripture the promiſe was to the ſeed, not to the ſeeds many, but to the ſeed, one, which ſeed that at the pro<g ref="char:EOLhyphen"/>miſe was to, was crucificied in me, I living in pleaſure mur<g ref="char:EOLhyphen"/>dered and kil'd the juſt, then I obſerved duties, and think<g ref="char:EOLhyphen"/>ing by prayer and other performances to get acceptance with God whom I knew but as a Judge and a condemner, and in this condemned eſtate I run up and down to hear, the Prieſts, and thoſe that were the beſt reſpected in the Countrey where I lived, and in hearing of them I increaſ<g ref="char:EOLhyphen"/>ed in knowledge, and the more I increaſed in knowledge increaſed ſorrow, and could ſpeak much of what I have heard from men, and would talk much of God, Chriſt and Scriptures, exceeding many my equals; Then I be<g ref="char:EOLhyphen"/>gan to be exalted, and was called by the World a Chri<g ref="char:EOLhyphen"/>ſtian, though I was out of Chriſt; and many times when I have been ſpeaking of the things of God in the vain mind, I have been cauſed to walk ſolitary alone in the field, and a ſecret deſire hath ariſen in me as I walked a<g ref="char:EOLhyphen"/>lone, that I might come to the knowledge of God, yea, with tears and bitter lamentation, yea I can truly ſay my deſire was even as Jobs, who ſaid, <hi>O that I knew where I might find him, that I might come even to his ſeat, but where to find him I knew not,</hi> and in this bewildred eſtate I lay long, and then to get out of this troubled eſtate, I would go amongſt them that was given to mirth, as muſick, think<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:29663:3" rendition="simple:additions"/>
+there to get caſe, &amp; in the midſt of laughter my heart was made ſad; then the Prieſts told me that a troubled ſtate was a good ſtate, that <hi>Paul</hi> ſaw himſelf wretched, and therefore I might be ſo, and in this ſtate, they cryed peace to me, to whom God had not ſpoke peace, ſo then I began to ſeet them to be Phyſitians of no value; then I went amongſt them people called Anabaptiſts, and I ſaw them in the form higher to the truth then the Prieſts, in what they acted by the Scripture, and ſo then I went much to hear them, and could ſpeak in their behalf, for the juſtifying of their practiſes, as Baptiſme, and breaking of bread, according to Scripture, and I did ſee plainly that the Prieſts was thoſe that built by <hi>Sion</hi> with blood, and <hi>Jerusalem</hi> with iniquity, crying peace to me while I lived in the filthy converſation; ſo amongſt the Baptiſts I went high a year, and they did tell me how needful it was for me to be baptized, being did believe, which ordinance I could not take up, I ſeeing their lives like the former, nothing differing but in the form, then about the year 1654. I came to <hi>London</hi> and heard the Baptiſts there, which told me breaking of bread, by it they came to be ſealed to the Father, calling it the ſeal of the Covenant, then with a great zeal I did eat and drink with them, thinking to be ſealed to God at that time, and by ſo doing, my life, ſhould be changed; but my life was as bad as ever, and I ſaw my ſelf in the ſtate of death as before and without hopes for ever, and knew not where to ſeek to find reſt for my ſoul which lay crucified in the Wilderneſſe, then about the year 1655. I went into <hi>Northampton-ſhire</hi> again, and there I ran up and down, from Mountain to Hill, from one Sect to another as before, and yet found no reſt, then I was made to ſtay at home, and go no whither, and as I was walking in an Orchard, the word of the Lord came unto me, <hi>even the youths ſhall faint and be merry, and the young men ſhall utterly fall, but they that wait upon the Lord ſhall renew their ſtrength,</hi> and at that time the Lord manifeſted ſomething of himſelf in me
+<pb n="6" facs="tcp:29663:4" rendition="simple:additions"/>
+which was pure, which never gave me conſent to do evil, ſhew with the light, I ſaw my ſins from my youth ſet in order before me, and the judgements due unto them, and by the judgements of the Lord, the earth in me was ſhaken, and the pillars thereof did fall, yea the judgements of the Lord was ſo dreadful, that I could have wiſhed I had never been. and that I had pe<g ref="char:EOLhyphen"/>riſhed in the womb before I came forth, and from under judgement I would have fled, but my fig-leaved garment would not hide me, then under the judgement of the Lord I was willing to ſtand naked, as in the day that I was born, before the Lord, and no other way came redemp<g ref="char:EOLhyphen"/>tion unto me, or was I redeemed but through the righte<g ref="char:EOLhyphen"/>ousness judgements of the Lord, and by the power of the Lord, and by his outſtretched arm was I brought out of <hi>AEgypt,</hi> from under the thick darkneſſe that covered the earth, then the eye of my underſtanding was opened, and the Light appeared as the Sun that riſeth in the Eaſt, and ſetteth in the Weſt, and as I waited in that which ſhewed me ſin &amp; evil, many openings of the Fathers love I had wch made me weep for joy, and at that time, in the year 1655. there was many of the people of God in priſon in the com<g ref="char:EOLhyphen"/>mon Goal in <hi>Northampton,</hi> amongſt whom was <hi>William Dues<g ref="char:EOLhyphen"/>bury,</hi> whoſe face I never ſaw, and the witneſſe of God in me did anſwer to the truth which <hi>I</hi> heard he declared; then <hi>I</hi> began to get truth in the comprehenſion, being gone from under the judgements of the Lord which I was under, but little before, and contended with the World for the truth which now ſetteth me free.</p>
+            <p>And many times, <hi>I</hi> had drawings to viſit <hi>William Duesbu<g ref="char:EOLhyphen"/>ry</hi> and the reſt in Priſon, and <hi>I</hi> have went to the Priſon door and knocked but with much fear, and have went a<g ref="char:EOLhyphen"/>way again and durſt not go in, for <hi>I</hi> ſaw ſomething in my ſelf which <hi>William</hi> would cut down, though <hi>I</hi> held the Truth but it was in the unrighteouſneſs, then the righ<g ref="char:EOLhyphen"/>teous judgement of the Lord took hold on me as before for holding the Truth in unrighteouſneſſe, then the Word of the Lord came unto me, which ſaid, <hi>Silence all fleſh in
+<pb n="7" facs="tcp:29663:4" rendition="simple:additions"/>
+the preſence of the Lord,</hi> then <hi>I</hi> durſt not profeſſe no more then <hi>I</hi> did poſſeſs, then a day of ſilence <hi>I</hi> knew, and ſubject to the higher power <hi>I</hi> was, which power crucified me unto the World, and the World unto me; ſo then in the Croſs <hi>I</hi> waited which croſſed my own will, then the Power was felt which led me out of the cuſtoms, faſhions &amp; traditions of men, then <hi>I</hi> became a fool and a by word a<g ref="char:EOLhyphen"/>mong my country men who cal'd me a Quaker, wch word <hi>I</hi> owned, for a day of Trembling and Quaking <hi>I</hi> knew by the unreſiſtable Power of God, but trembling or quaking <hi>I</hi> denyed for fear of man or the powers of man, but qua<g ref="char:EOLhyphen"/>king by the unreſiſtable Power of God <hi>I</hi> durſt not deny, leaſt <hi>I</hi> should deny the Power that appeared to <hi>Moſes,</hi> at which power he feared and trembled, and <hi>David</hi> his bones were as if they were out of joynt, and <hi>Habakkuk</hi> ſaid, my belly trembled, and my lips quivered at the voice, rot<g ref="char:EOLhyphen"/>tenneſs entered into my bones, <hi>I</hi> trembled in my ſelf that <hi>I</hi> might reſt in the day of trouble, and <hi>Daniel</hi> trem<g ref="char:EOLhyphen"/>bled, and <hi>Paul</hi> trembled and was aſtoniſhed at the Word of the Lord.</p>
+            <p>So all people in tender love I warn you, that none may reſt in a profeſſion of God and Chirſt, and Scriptures, for that will ſtand in no ſtead when the Lord cometh to plead with you; but turn to the light which maketh manifeſt your evil deeds, for that is the true Light, <hi>that lighteth every man that cometh into the World,</hi> and all who are led by this Light, they are led out of darkneſs, from Satans Power to the Power of God; and the day is come, the ax is now laid to the root of the tree, and every tree that bringeth not forth good fruit is hewen down and caſt into the fire.</p>
+            <p>Written by one who hath ſeen the travel of his ſoul and is ſa<g ref="char:EOLhyphen"/>tisfied, and is now come of his deſired haven, where reſt and peace is known, and hath ceaſed from his own works and knoweth the Lord to work in him, both to will and to do even his own good pleaſure, who is known to the World by name,</p>
+            <closer>
+               <signed>THOMAS GREEN.</signed>
+               <dateline>
+                  <hi>Twickinham</hi> 
+                  <date>the 26 day of the 8. month, 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
